@@ -1,0 +1,1 @@
++ $rcmail_config['amacube_db_dsn'] = 'mysqli://username:password@127.0.0.1/dbispconfig';
